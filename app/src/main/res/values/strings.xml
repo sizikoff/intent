@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hello">Активити 1</string>
+    <string name="hello1">Активити 2</string>
+    <string name="enter">Переход</string>
+    <string name="notific">Уведомлялка</string>
+</resources>
